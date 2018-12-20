@@ -2,6 +2,8 @@
 #   which of the IMDB datasets to download, default downloads all. Full details
 #   of the datasets can be found at https://www.imdb.com/interfaces/
 
+library(utils)
+
 download_imdb_data = function(file_loc, namebasics = TRUE, akas = TRUE,
                               titlebasics = TRUE, crew = TRUE, episode = TRUE,
                               principals = TRUE, ratings = TRUE){
