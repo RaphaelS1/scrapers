@@ -1,4 +1,4 @@
-This repo contains a useful web scrapers using Beautiful Soup in Python and utils in R.
+This repo contains useful web scrapers using Beautiful Soup in Python and utils in R.
 
 mpsontwitter_scraper scrapes the total number of interactions (likes + retweets) from all UK MP tweets in a given data range. Results can be viewed either per tweet or aggregated over each MP. (Run-time for the year 2016 is approx 6 hours).
 
